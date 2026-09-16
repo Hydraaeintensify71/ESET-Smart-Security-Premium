@@ -1,0 +1,23 @@
+{
+  "repo": "eset-smart-security-premium",
+  "product": "ESET Smart Security Premium",
+  "kind": "security",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "endpoint-security",
+  "topics": [
+    "eset-smart-security",
+    "endpoint-protection",
+    "windows-firewall-tools",
+    "web-guard-desktop",
+    "eset-windows",
+    "home-office-security",
+    "eset-2026",
+    "how-to-install-eset",
+    "eset-desktop-package",
+    "device-care-suite"
+  ],
+  "site": "toolix.me"
+}
